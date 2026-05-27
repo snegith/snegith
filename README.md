@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Snegith&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Snegith&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=45" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;ML+Engineer+%7C+Full-Stack+Dev;From+Coimbatore+%F0%9F%87%AE%F0%9F%87%B3+with+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works...;ML+Engineer+%7C+Full-Stack+Dev;From+Coimbatore%2C+India+with+love;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -112,7 +112,7 @@ Real-time interview analysis scoring **eye contact, posture & facial expression*
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Snegith&theme=matrix&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Snegith&theme=matrix&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
