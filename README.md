@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Snegith&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=45" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works...;ML+Engineer+%7C+Full-Stack+Dev;From+Coimbatore%2C+India+with+love;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works...;ML+Engineer+%7C+Full-Stack+Dev;From+Coimbatore%2C+India;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
 </div>
 
